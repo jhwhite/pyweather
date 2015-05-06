@@ -14,6 +14,6 @@ You can easily add other data points from the documentation found here: https://
 
 You will need an api key from Forecast. You can get one here: https://developer.forecast.io/
 
-You will need to put your api key in a file called api.txt in the same directory as the script. Do not add anyhting to the file other then your api key.
+You will need to put your api key in a file called api.txt in the same directory as the script. Do not add anything to the file other then your api key.
 
 After adding the file simply run the script from the command line.

@@ -28,7 +28,7 @@ else:
     print "The zip is not valid."
 
 
+
 byDay = forecast.daily()
 for dailyData in byDay.data:
    print dailyData.time,dailyData.temperatureMax,dailyData.temperatureMin
-
